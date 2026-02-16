@@ -1,0 +1,11 @@
+# STEP file reader dependencies
+
+# Image processing
+Pillow>=9.0.0
+
+# For development/testing
+pytest>=7.0.0
+
+# OCR engines (optional - install one or both)
+# easyocr>=1.6.0  # GPU対応、高精度（推奨）
+# pytesseract>=0.3.10  # 軽量
