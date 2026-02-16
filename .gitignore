@@ -36,6 +36,9 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
+# Intermediate OCR output
+.step_ocr_temp_*/
+
 # Environment variables
 .env
 .env.local
